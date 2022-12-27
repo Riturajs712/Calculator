@@ -1,7 +1,7 @@
 ## 💖CALCULATOR
 A calculator which is noob but can perform some basic tasks.
 
-## 📗HOW TO PLAY
+## 📗HOW TO USE
 You can use it by locally compiling it in your pc.
 
 ## 🤖FOLLOR FOR MORE
